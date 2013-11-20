@@ -5,5 +5,5 @@ third line added
 
 folder moved 
 
-gadget file need to commit
+gadget file need to commit  
 
